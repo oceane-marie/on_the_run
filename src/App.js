@@ -4,7 +4,10 @@ import Header from "./components/Header";
 import Card from "./components/Card";
 
 function App() {
-  const cards = items.map(item => {
+  const yearDescending = [...items].sort((a, b) => b.year - a.year);
+  console.log(yearDescending);
+
+  const cards = yearDescending.map(item => {
     return (
       <Card
         {...item}

@@ -1,5 +1,8 @@
 
+import itemsData from "../itemsData"
+
 export default function Card(props){
+
   return (
     <div className="grid-cards">
       <div className="card-content">
