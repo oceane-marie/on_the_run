@@ -6,7 +6,7 @@ export default [
     startDate:"2016.09.01",
     endDate:"2016.12.01",
     year: 2016,
-    description:"",
+    description:"Milan is Italy’s city of the future, a fast-paced metropolis where money talks, creativity is big business and looking good is an art form.(Lonely Planet)",
     imgUrl:"https://images.pexels.com/photos/2815150/pexels-photo-2815150.jpeg",
   },
   {
@@ -16,7 +16,7 @@ export default [
     startDate:"2015.07.01",
     endDate:"2015.07.07",
     year: 2015,
-    description:"",
+    description:"Imagine the audacity of building a city of marble palaces on a lagoon – and that was only the start.",
     imgUrl:"https://images.pexels.com/photos/258196/pexels-photo-258196.jpeg",
   },
   {
@@ -26,7 +26,7 @@ export default [
     startDate:"2019.05.01",
     endDate:"2019.05.07",
     year: 2019,
-    description:"",
+    description:"Surrounded by mountains and sea, this compact, cultured and fun city has a palpable sense of reinvention.",
     imgUrl:"https://images.pexels.com/photos/2360665/pexels-photo-2360665.jpeg",
   },
   {
@@ -36,7 +36,7 @@ export default [
     startDate:"2019.05.08",
     endDate:"2019.05.16",
     year: 2019,
-    description:"",
+    description:"Stockholmers call their city 'beauty on water'. But despite the well-preserved historic core, Stockholm is no museum piece: it's modern, dynamic and ever-evolving.",
     imgUrl:"https://images.pexels.com/photos/1694867/pexels-photo-1694867.jpeg",
   },
   {
@@ -46,7 +46,7 @@ export default [
     startDate:"2016.08.15",
     endDate:"2016.08.22",
     year: 2016,
-    description:"",
+    description:"Barcelona is an enchanting seaside city with boundless culture, fabled architecture and a world-class drinking and dining scene.",
     imgUrl:"https://images.pexels.com/photos/3916422/pexels-photo-3916422.jpeg",
   },
   {
@@ -56,7 +56,7 @@ export default [
     startDate:"2002.07.01",
     endDate:"2002.07.15",
     year: 2002,
-    description:"",
+    description:"Opening up like a pop-up book from the banks of the Rio Douro, edgy-yet-opulent Porto entices with its historic centre, sumptuous food and wine, and charismatic locals.",
     imgUrl:"https://images.pexels.com/photos/3571568/pexels-photo-3571568.jpeg",
   },
   {
@@ -66,7 +66,7 @@ export default [
     startDate:"2014.03.18",
     endDate:"2014.03.23",
     year: 2014,
-    description:"",
+    description:"Paris' monument-lined boulevards, museums, classical bistros and boutiques are enhanced by a new wave of multimedia galleries, creative wine bars, design shops and tech start-ups.",
     imgUrl:"https://images.pexels.com/photos/342113/pexels-photo-342113.jpeg",
   },
   {
@@ -76,7 +76,7 @@ export default [
     startDate:"2022.09.01",
     endDate:"2022.11.29",
     year: 2022,
-    description:"",
+    description:"Fashion- and technology-forward but also deeply traditional, this dynamic city mashes up palaces, temples, cutting-edge design and mountain trails, all to a nonstop K-Pop beat.",
     imgUrl:"https://images.pexels.com/photos/2246789/pexels-photo-2246789.jpeg",
   },
   {
@@ -86,7 +86,7 @@ export default [
     startDate:"2010.04.04",
     endDate:"2010.04.11",
     year: 2010,
-    description:"",
+    description:"One of the world's most visited cities, London has something for everyone: from history and culture to fine food and good times.",
     imgUrl:"https://images.pexels.com/photos/1647120/pexels-photo-1647120.jpeg"
   }
 ]
