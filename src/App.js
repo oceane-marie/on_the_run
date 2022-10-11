@@ -17,7 +17,9 @@ function App() {
   return (
     <div className="App">
       <Header />
-      {cards}
+      <div className="grid-cards">
+        {cards}
+      </div>
     </div>
   );
 }
