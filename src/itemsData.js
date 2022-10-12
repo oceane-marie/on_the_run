@@ -8,7 +8,7 @@ export default [
     endDate:"2016.12.01",
     year: 2016,
     description:"Milan is Italy’s city of the future, a fast-paced metropolis where money talks, creativity is big business and looking good is an art form.(Lonely Planet)",
-    imgUrl:"https://images.pexels.com/photos/2815150/pexels-photo-2815150.jpeg",
+    imgUrl:"https://images.pexels.com/photos/3365196/pexels-photo-3365196.jpeg",
   },
   {
     id:2,
